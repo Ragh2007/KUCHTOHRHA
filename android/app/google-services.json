@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "696315010133",
+    "project_id": "elabs-3fde5",
+    "storage_bucket": "elabs-3fde5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696315010133:android:6542d430cf8a76a9db08dc",
+        "android_client_info": {
+          "package_name": "com.example.elabs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsQDZznO-a3CJrfu1VWmlP01DxuJqnPBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696315010133:android:9f4d906291143804db08dc",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsQDZznO-a3CJrfu1VWmlP01DxuJqnPBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
